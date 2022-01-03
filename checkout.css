@@ -1,0 +1,17 @@
+input{
+   
+    margin-top: 20px;
+}
+
+#det{
+    margin: auto;
+    width: 30%;
+    height: 300px;
+    margin-top: 30px;
+    background-color: rgb(207, 155, 207);
+}
+button{
+    margin-left: 140px;
+    background-color: teal;
+   margin-top: 30px;
+}

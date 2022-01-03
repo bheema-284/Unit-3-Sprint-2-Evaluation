@@ -1,0 +1,26 @@
+#cont{
+    width: 40%;
+    height: 300px;
+    margin: auto;
+    border: solid 1px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#dets{
+    width: 40%;
+    height: 100px;
+    margin: auto;
+}
+#para{
+    margin: auto;
+    width: 150px;
+    height: 10px;
+    border: 1px solid;
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 35px;
+    background-color: teal;
+    
+}
